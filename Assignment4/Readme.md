@@ -1,5 +1,5 @@
 
-Deck of Cards Program
+# Deck of Cards Program
 
 This program represents a deck of cards as an array of objects in Java. The Card class has the following features:
 
